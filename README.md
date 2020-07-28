@@ -1,4 +1,4 @@
-# flutterlearningapp
+# Corona Sample App in flutter
 
 A new Flutter application.
 
